@@ -2,6 +2,16 @@
 
 ## General Presentation Structure
 1. Overview of project
+1. State the research question or objective
+1. Briefly mention data sources and transformations
+1. Contextual visualization(s)
+	* What visualizations do we need to understand your topic?
+1. Show objective specific visualization(s)
+	* What visualizations display your results
+1. Present key insights
+1. Tell us what (if anything) you recommend
+1. Tell us what future areas you might want/need to study
+1. Conclude your briefing
 
 ## Research Question or Objective
 * **Purpose:** Explain the purpose of your project and its importance.
