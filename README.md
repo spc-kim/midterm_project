@@ -28,7 +28,8 @@
 * **Purpose:** Propose actions based on your findings.
 * **Details:** Outline possible solutions or improvements and discuss how your research addresses the original question or problem.
 
-## **Purpose:** Suggest directions for further study.
+## Future Areas of Research
+* **Purpose:** Suggest directions for further study.
 * **Details:** Identify new questions or extensions of your project that could provide further insights.
 
 ## End Briefing / Final Slide
