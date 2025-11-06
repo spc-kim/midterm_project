@@ -4,7 +4,9 @@
 
 This EDA focuses on a dataset of IMDB's Top 1000 Movie rankings.
 
-The analysis first takes a brief look at the entire dataset of 1000 movie entries. Then, it shifts its focus onto the top performing movies based on category.
+The analysis first takes a brief look at the entire dataset of 1000 movie entries from IMDB, the Internet Movie DataBsae, a popular movie indexing website. The dataset was taken in 2020.
+
+The analysis then shifts focus onto the top performing movies based on category.
 
 ## Objective Questions
 
